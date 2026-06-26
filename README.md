@@ -21,12 +21,6 @@ The project allows a library admin to manage books, register users, borrow and r
 - Store data in text files
 - Automatically create required data files if they do not exist
 
-## Library Menu
-
-Below is a sample of the interactive menu:
-
-![1782491465096](image/README/1782491465096.png)
-
 ## Project Files
 
 - `main.cpp` - starts the program
